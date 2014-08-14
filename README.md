@@ -1,6 +1,6 @@
 Hello World C
 
 
-gcc -o hello main.c
+Just type make stable!
 
 ./hello
