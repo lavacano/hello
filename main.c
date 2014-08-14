@@ -2,9 +2,10 @@
 
 #include <stdio.h>
 
-void main()
+int main(void)
 {
 	printf("\n");
 	printf("Hello World");
 	printf("\n");
+	return 0;
 }
