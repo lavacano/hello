@@ -1,6 +1,6 @@
 Hello World C
 
 
-gcc -o hello hello.c
+gcc -o hello main.c
 
 ./hello
